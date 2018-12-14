@@ -1,0 +1,21 @@
+1. 
+moving line and statement
+shift + alt + Uarrow =  to move line up
+shift + alt + Darrow =  to move line down
+
+shift + command + Uarrow = to move statement up
+shift + command + Darrow = to move statement down
+
+2 .
+Navigation in file
+
+fn +  up arrow key =(page up)
+fn +  DOWN arrow key =(page down)
+fn + command + -> =(end of file)
+fn + command + <-  =(start of file)
+
+3. Duplicating and deleting
+	command + D = duplicate the line
+	command + delete = delete a line
+4. Suggested parameters
+	
