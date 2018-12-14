@@ -17,5 +17,15 @@ fn + command + <-  =(start of file)
 3. Duplicating and deleting
 	command + D = duplicate the line
 	command + delete = delete a line
-4. Suggested parameters
 	
+4. Suggested parameters
+   command + P
+   
+5. comment 
+  comand + /        = (comment and uncomment)
+  alt + command + / =(comment and uncomment)
+
+6. Folding and unfolding
+  command + - = folding
+  commad + + = unfolding
+ 
