@@ -54,14 +54,52 @@ fn + command + <-  = start of file
      shift + alt + ->     = to select one word at a time
      shift + command + -> = to select everything from where cursor is to end of line
    
-   14. Extending selection
-     alt + up arrow = to extend current selection
+   14. Extending selection. {interesting and important}
+         alt + up arrow = to extend current selection
          alt + down arrow = to shrink current selection
 	 
    15. smart code completion 
-      shift + command + space =  to use smart (like new and then press smart code completion)
-      (shift + command + space) + (shift + command + space ) = to invoke 
+      shift + control + space =  to use smart (like new and then press smart code completion)
+      (shift + control + space) + (shift + command + space ) = to invoke smart code completion
       
+    16. static import completeion. {interesting and important}
+      ctrl + space +  ctrl + space  = to display static method suggestion list
+      alt + enter     = to add a static import
+     
+     17.postfix completion (interesting )
+     command + J = to display postfix completion suggestion list
+     
+       - nn/null    = checks expression to be null
+       - notnull    = checks expression to be not-null
+       - synchronized =  insert synchronized block
+       - try  		= insert try-catch block
+       - for 		= iterate over enumerable collection
+       - fori		= iterate with index over collection
+       - forr		= iterate with index in reverse order
+       for full list please invoke action by shit + command + A and then type postfix
+       
+       18. auto generate constructor, tostring, hashcode
+        command + N = to open code generation suggestion
+	
+	19. autoGenerate in Test class
+	 command + N = to display generate menu in test class
+	 
+	 20. Git operation
+         command + k = to commit project to VCS
+	 command + D = to show diff of a file in commit changes dialog
+	 alt + command + Z = to revert a file in a commit changes dialog
+	 
+	 {very important}
+	 ctrl + V 	=  to bring up VCS operation popup
+	 select annotate to see complete history of the file
+      	
+	21. code formatting
+	 alt + command + L = format 
+	 command + 1 = to move the focus to project window
+	 
+	 22. optimizing import
+	 ctrl + alt + o = to optimize import statements
+	 
    
  
  
