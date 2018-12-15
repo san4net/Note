@@ -11,8 +11,8 @@ Navigation in file
 
 fn +  up arrow key =(page up)
 fn +  DOWN arrow key =(page down)
-fn + command + -> =(end of file)
-fn + command + <-  =(start of file)
+fn + command + -> = end of file
+fn + command + <-  = start of file
 
 3. Duplicating and deleting
 	command + D = duplicate the line
@@ -22,10 +22,48 @@ fn + command + <-  =(start of file)
    command + P
    
 5. comment 
-  comand + /        = (comment and uncomment)
-  alt + command + / =(comment and uncomment)
+  comand + /        = (comment and uncomment
+  alt + command + / =(comment and uncomment
 
 6. Folding and unfolding
   command + - = folding
   commad + + = unfolding
+
+7. NavigatingToclass
+   command + O = to navigate class
+
+ 8. NavigatingToMethod/ NavigatingToSymbol
+   alt + command + O
+   
+ 9.  Navigating File
+    command + shift + O = file navigation
+    command + shift + O  =  for folder type folder name followed by /
+    
+ 10. NavigatingT Action
+    shift + command + A = to search action like theme or java compiler
+  
+  11. search everwhere
+    shift + shift = to search everyweher and tab to swith between section
+
+  12. Recent files
+     Avoid using tab 
+     command + E = to open recent visited files
+     shift + command + E = to open recent edited files
+     
+   13. Text selection
+     shift + alt + ->     = to select one word at a time
+     shift + command + -> = to select everything from where cursor is to end of line
+   
+   14. Extending selection
+     alt + up arrow = to extend current selection
+         alt + down arrow = to shrink current selection
+	 
+   15. smart code completion 
+      shift + command + space =  to use smart (like new and then press smart code completion)
+      (shift + command + space) + (shift + command + space ) = to invoke 
+      
+   
+ 
+ 
+ 
  
