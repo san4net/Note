@@ -99,9 +99,16 @@ fn + command + <-  = start of file
 	 
 	 22. optimizing import
 	 ctrl + alt + o = to optimize import statements
-	 
    
- 
- 
+        23. Navigating compiler error
+	  command + f9 = to build the application
+	  command + alt + down arrow =. to navigate to next compilation error
+	  command + alt + up arrow =. to navigate to prev compilation error
+	  esc = to move the curson to the editor
+	 
+ 	24. language injection
+	  alt + enter to add language injection
+	  command + w to close current fragment editor or current file
+	  
  
  
